@@ -1,6 +1,7 @@
 {
     "ENC": {
         "SERVER_DOMAIN_V1_01": "https://01dlmxtserver.kavideveloper-se.workers.dev/",
-        "SERVER_DOMAIN_V1_02": "https://02dlmxtserver.kavideveloper-se.workers.dev/"
+        "SERVER_DOMAIN_V1_02": "https://02dlmxtserver.kavideveloper-se.workers.dev/",
+        "SERVER_DOMAIN_V1_03": "https://03dlmxtserver.kavideveloper-se.workers.dev/"
     }
 }
