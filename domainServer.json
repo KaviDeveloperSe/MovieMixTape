@@ -3,5 +3,15 @@
         "SERVER_DOMAIN_V1_01": "https://01dlmxtserver.kavideveloper-se.workers.dev/",
         "SERVER_DOMAIN_V1_02": "https://02dlmxtserver.kavideveloper-se.workers.dev/",
         "SERVER_DOMAIN_V1_03": "https://03dlmxtserver.kavideveloper-se.workers.dev/"
+    },
+    "STREAM": {
+        "SERVER_DOMAIN_V1_04": "https://04dlmxtserver.kavideveloper-se.workers.dev/",
+        "SERVER_DOMAIN_V1_05": "https://05dlmxtserver.kavideveloper-se.workers.dev/",
+        "SERVER_DOMAIN_V1_06": "https://06dlmxtserver.kavideveloper-se.workers.dev/"
+    },
+    "DOWNLOAD": {
+        "SERVER_DOMAIN_V1_07": "https://07dlmxtserver.kavideveloper-se.workers.dev/",
+        "SERVER_DOMAIN_V1_08": "https://08dlmxtserver.kavideveloper-se.workers.dev/",
+        "SERVER_DOMAIN_V1_09": "https://09dlmxtserver.kavideveloper-se.workers.dev/"
     }
 }
